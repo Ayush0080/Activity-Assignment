@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ayush 
+=======
+hfiuhdif
+>>>>>>> devlop
